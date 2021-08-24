@@ -1,0 +1,60 @@
+﻿using System;
+
+/*Design tiny URL
+Design a tinyURL system.
+
+More formally, design a system which does the following:
+
+Given a URL to shorten, it gives back a unique shortened URL
+Given a URL to shorten and a custom string, it gives back a shortened URL with the custom string as suffix (If its available).
+When I type shortened URL into the browser, it redirects me to the original URL.
+Upload a zip file which has 2 files inside :
+
+A image file which has the block diagrams of what your architecture will look like
+A text file with description of how it will work.
+The text file should answer the following questions after description:
+
+How does your system ensure that 2 URLs never map to the same shortened URL?
+How will you ensure the system is very low latency?
+What will happen if the machine storing the URL mapping dies? (Power outage / Hard Disk gone bad)
+How do you make sure your system is consistent? This is to say, if I have shortened a URL, given the shortened URL, 
+my system should always return the original URL no matter when I call your system.
+How do you make sure that your service never goes down? (No outage). You have to assume that your machines will die. .
+How do you make sure your service is unaffected by those incidents (unless all of your machines die at once - Lets assume that never happens).*/
+
+namespace Short_URL
+{
+    class Program
+    {
+      public  static void Main(string[] args)
+        {
+            string URL;
+            string[] USplit;
+
+            URL= args[0].ToString();
+            USplit= URL.Split(".");
+
+           URL= shortURL(1515208480512515610);
+
+        }
+
+        public  static string shortURL(ulong u)
+        {
+            var alphabet = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            var n = u;
+            ulong basis = 62;
+            var ret = "";
+            while (n > 0)
+            {
+                ulong temp = n % basis;
+                ret = alphabet[(int)temp] + ret;
+                n = (n / basis);
+
+            }
+           return ret;
+
+        }
+
+
+    }
+}

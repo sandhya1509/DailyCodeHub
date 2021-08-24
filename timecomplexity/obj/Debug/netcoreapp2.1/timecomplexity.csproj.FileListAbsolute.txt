@@ -1,0 +1,12 @@
+C:\Users\sandhya\source\repos\timecomplexity\obj\Debug\netcoreapp2.1\timecomplexity.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\timecomplexity\obj\Debug\netcoreapp2.1\timecomplexity.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\timecomplexity\obj\Debug\netcoreapp2.1\timecomplexity.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\timecomplexity\bin\Debug\netcoreapp2.1\timecomplexity.deps.json
+C:\Users\sandhya\source\repos\timecomplexity\bin\Debug\netcoreapp2.1\timecomplexity.runtimeconfig.json
+C:\Users\sandhya\source\repos\timecomplexity\bin\Debug\netcoreapp2.1\timecomplexity.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\timecomplexity\bin\Debug\netcoreapp2.1\timecomplexity.dll
+C:\Users\sandhya\source\repos\timecomplexity\bin\Debug\netcoreapp2.1\timecomplexity.pdb
+C:\Users\sandhya\source\repos\timecomplexity\obj\Debug\netcoreapp2.1\timecomplexity.dll
+C:\Users\sandhya\source\repos\timecomplexity\obj\Debug\netcoreapp2.1\timecomplexity.pdb
+C:\Users\sandhya\source\repos\timecomplexity\obj\Debug\netcoreapp2.1\timecomplexity.genruntimeconfig.cache
+C:\Users\sandhya\source\repos\timecomplexity\obj\Debug\netcoreapp2.1\timecomplexity.csproj.AssemblyReference.cache

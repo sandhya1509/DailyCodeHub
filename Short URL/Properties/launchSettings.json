@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Short URL": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.scaler.com/academy/mentee-dashboard/classes/regular "
+    }
+  }
+}

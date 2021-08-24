@@ -1,0 +1,16 @@
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\CS LAbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\CS LAbs.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\CS LAbs.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\CS LAbs.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\CS LAbs\bin\Debug\net5.0\CS LAbs.exe
+C:\Users\sandhya\source\repos\CS LAbs\bin\Debug\net5.0\CS LAbs.deps.json
+C:\Users\sandhya\source\repos\CS LAbs\bin\Debug\net5.0\CS LAbs.runtimeconfig.json
+C:\Users\sandhya\source\repos\CS LAbs\bin\Debug\net5.0\CS LAbs.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\CS LAbs\bin\Debug\net5.0\CS LAbs.dll
+C:\Users\sandhya\source\repos\CS LAbs\bin\Debug\net5.0\ref\CS LAbs.dll
+C:\Users\sandhya\source\repos\CS LAbs\bin\Debug\net5.0\CS LAbs.pdb
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\CS LAbs.dll
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\ref\CS LAbs.dll
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\CS LAbs.pdb
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\CS LAbs.genruntimeconfig.cache
+C:\Users\sandhya\source\repos\CS LAbs\obj\Debug\net5.0\CS LAbs.csprojAssemblyReference.cache

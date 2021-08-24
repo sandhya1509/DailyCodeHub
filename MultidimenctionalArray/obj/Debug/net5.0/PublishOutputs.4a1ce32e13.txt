@@ -1,0 +1,5 @@
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\publish\MultidimenctionalArray.exe
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\publish\MultidimenctionalArray.dll
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\publish\MultidimenctionalArray.deps.json
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\publish\MultidimenctionalArray.runtimeconfig.json
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\publish\MultidimenctionalArray.pdb

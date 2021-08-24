@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day30 29 MAY MAthsII/1.0.0": {
+        "runtime": {
+          "Day30 29 MAY MAthsII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day30 29 MAY MAthsII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

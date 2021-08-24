@@ -1,0 +1,16 @@
+C:\Users\sandhya\source\repos\stringManupulation\bin\Debug\net5.0\stringManupulation.exe
+C:\Users\sandhya\source\repos\stringManupulation\bin\Debug\net5.0\stringManupulation.deps.json
+C:\Users\sandhya\source\repos\stringManupulation\bin\Debug\net5.0\stringManupulation.runtimeconfig.json
+C:\Users\sandhya\source\repos\stringManupulation\bin\Debug\net5.0\stringManupulation.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\stringManupulation\bin\Debug\net5.0\stringManupulation.dll
+C:\Users\sandhya\source\repos\stringManupulation\bin\Debug\net5.0\ref\stringManupulation.dll
+C:\Users\sandhya\source\repos\stringManupulation\bin\Debug\net5.0\stringManupulation.pdb
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\stringManupulation.csprojAssemblyReference.cache
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\stringManupulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\stringManupulation.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\stringManupulation.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\stringManupulation.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\stringManupulation.dll
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\ref\stringManupulation.dll
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\stringManupulation.pdb
+C:\Users\sandhya\source\repos\stringManupulation\obj\Debug\net5.0\stringManupulation.genruntimeconfig.cache

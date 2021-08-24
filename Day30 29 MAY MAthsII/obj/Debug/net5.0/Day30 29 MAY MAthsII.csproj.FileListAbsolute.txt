@@ -1,0 +1,15 @@
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\bin\Debug\net5.0\Day30 29 MAY MAthsII.exe
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\bin\Debug\net5.0\Day30 29 MAY MAthsII.deps.json
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\bin\Debug\net5.0\Day30 29 MAY MAthsII.runtimeconfig.json
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\bin\Debug\net5.0\Day30 29 MAY MAthsII.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\bin\Debug\net5.0\Day30 29 MAY MAthsII.dll
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\bin\Debug\net5.0\ref\Day30 29 MAY MAthsII.dll
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\bin\Debug\net5.0\Day30 29 MAY MAthsII.pdb
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\obj\Debug\net5.0\Day30 29 MAY MAthsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\obj\Debug\net5.0\Day30 29 MAY MAthsII.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\obj\Debug\net5.0\Day30 29 MAY MAthsII.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\obj\Debug\net5.0\Day30 29 MAY MAthsII.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\obj\Debug\net5.0\Day30 29 MAY MAthsII.dll
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\obj\Debug\net5.0\ref\Day30 29 MAY MAthsII.dll
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\obj\Debug\net5.0\Day30 29 MAY MAthsII.pdb
+C:\Users\sandhya\source\repos\Day30 29 MAY MAthsII\obj\Debug\net5.0\Day30 29 MAY MAthsII.genruntimeconfig.cache

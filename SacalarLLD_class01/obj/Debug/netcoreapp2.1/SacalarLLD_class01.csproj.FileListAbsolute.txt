@@ -1,0 +1,12 @@
+C:\Users\sandhya\source\repos\SacalarLLD_class01\bin\Debug\netcoreapp2.1\SacalarLLD_class01.deps.json
+C:\Users\sandhya\source\repos\SacalarLLD_class01\bin\Debug\netcoreapp2.1\SacalarLLD_class01.runtimeconfig.json
+C:\Users\sandhya\source\repos\SacalarLLD_class01\bin\Debug\netcoreapp2.1\SacalarLLD_class01.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\SacalarLLD_class01\bin\Debug\netcoreapp2.1\SacalarLLD_class01.dll
+C:\Users\sandhya\source\repos\SacalarLLD_class01\bin\Debug\netcoreapp2.1\SacalarLLD_class01.pdb
+C:\Users\sandhya\source\repos\SacalarLLD_class01\obj\Debug\netcoreapp2.1\SacalarLLD_class01.csprojAssemblyReference.cache
+C:\Users\sandhya\source\repos\SacalarLLD_class01\obj\Debug\netcoreapp2.1\SacalarLLD_class01.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\SacalarLLD_class01\obj\Debug\netcoreapp2.1\SacalarLLD_class01.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\SacalarLLD_class01\obj\Debug\netcoreapp2.1\SacalarLLD_class01.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\SacalarLLD_class01\obj\Debug\netcoreapp2.1\SacalarLLD_class01.dll
+C:\Users\sandhya\source\repos\SacalarLLD_class01\obj\Debug\netcoreapp2.1\SacalarLLD_class01.pdb
+C:\Users\sandhya\source\repos\SacalarLLD_class01\obj\Debug\netcoreapp2.1\SacalarLLD_class01.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\sandhya\source\repos\Short URL\bin\Debug\netcoreapp2.1\Short URL.deps.json
+C:\Users\sandhya\source\repos\Short URL\bin\Debug\netcoreapp2.1\Short URL.runtimeconfig.json
+C:\Users\sandhya\source\repos\Short URL\bin\Debug\netcoreapp2.1\Short URL.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\Short URL\bin\Debug\netcoreapp2.1\Short URL.dll
+C:\Users\sandhya\source\repos\Short URL\bin\Debug\netcoreapp2.1\Short URL.pdb
+C:\Users\sandhya\source\repos\Short URL\obj\Debug\netcoreapp2.1\Short URL.csprojAssemblyReference.cache
+C:\Users\sandhya\source\repos\Short URL\obj\Debug\netcoreapp2.1\Short URL.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\Short URL\obj\Debug\netcoreapp2.1\Short URL.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\Short URL\obj\Debug\netcoreapp2.1\Short URL.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\Short URL\obj\Debug\netcoreapp2.1\Short URL.dll
+C:\Users\sandhya\source\repos\Short URL\obj\Debug\netcoreapp2.1\Short URL.pdb
+C:\Users\sandhya\source\repos\Short URL\obj\Debug\netcoreapp2.1\Short URL.genruntimeconfig.cache

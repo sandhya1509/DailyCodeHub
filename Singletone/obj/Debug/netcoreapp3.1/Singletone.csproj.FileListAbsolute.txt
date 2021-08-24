@@ -1,0 +1,12 @@
+C:\Users\sandhya\source\repos\Singletone\bin\Debug\netcoreapp3.1\Singletone.exe
+C:\Users\sandhya\source\repos\Singletone\bin\Debug\netcoreapp3.1\Singletone.deps.json
+C:\Users\sandhya\source\repos\Singletone\bin\Debug\netcoreapp3.1\Singletone.runtimeconfig.json
+C:\Users\sandhya\source\repos\Singletone\bin\Debug\netcoreapp3.1\Singletone.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\Singletone\bin\Debug\netcoreapp3.1\Singletone.dll
+C:\Users\sandhya\source\repos\Singletone\bin\Debug\netcoreapp3.1\Singletone.pdb
+C:\Users\sandhya\source\repos\Singletone\obj\Debug\netcoreapp3.1\Singletone.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\Singletone\obj\Debug\netcoreapp3.1\Singletone.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\Singletone\obj\Debug\netcoreapp3.1\Singletone.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\Singletone\obj\Debug\netcoreapp3.1\Singletone.dll
+C:\Users\sandhya\source\repos\Singletone\obj\Debug\netcoreapp3.1\Singletone.pdb
+C:\Users\sandhya\source\repos\Singletone\obj\Debug\netcoreapp3.1\Singletone.genruntimeconfig.cache

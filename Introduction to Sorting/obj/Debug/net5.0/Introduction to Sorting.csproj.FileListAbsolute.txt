@@ -1,0 +1,16 @@
+C:\Users\sandhya\source\repos\Introduction to Sorting\bin\Debug\net5.0\Introduction to Sorting.exe
+C:\Users\sandhya\source\repos\Introduction to Sorting\bin\Debug\net5.0\Introduction to Sorting.deps.json
+C:\Users\sandhya\source\repos\Introduction to Sorting\bin\Debug\net5.0\Introduction to Sorting.runtimeconfig.json
+C:\Users\sandhya\source\repos\Introduction to Sorting\bin\Debug\net5.0\Introduction to Sorting.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\Introduction to Sorting\bin\Debug\net5.0\Introduction to Sorting.dll
+C:\Users\sandhya\source\repos\Introduction to Sorting\bin\Debug\net5.0\ref\Introduction to Sorting.dll
+C:\Users\sandhya\source\repos\Introduction to Sorting\bin\Debug\net5.0\Introduction to Sorting.pdb
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\Introduction to Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\Introduction to Sorting.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\Introduction to Sorting.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\Introduction to Sorting.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\Introduction to Sorting.dll
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\ref\Introduction to Sorting.dll
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\Introduction to Sorting.pdb
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\Introduction to Sorting.genruntimeconfig.cache
+C:\Users\sandhya\source\repos\Introduction to Sorting\obj\Debug\net5.0\Introduction to Sorting.csproj.AssemblyReference.cache

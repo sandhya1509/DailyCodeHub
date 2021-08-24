@@ -1,0 +1,16 @@
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\IntroductiontoRecursion.csprojAssemblyReference.cache
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\IntroductiontoRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\IntroductiontoRecursion.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\IntroductiontoRecursion.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\IntroductiontoRecursion.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\bin\Debug\net5.0\IntroductiontoRecursion.exe
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\bin\Debug\net5.0\IntroductiontoRecursion.deps.json
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\bin\Debug\net5.0\IntroductiontoRecursion.runtimeconfig.json
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\bin\Debug\net5.0\IntroductiontoRecursion.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\bin\Debug\net5.0\IntroductiontoRecursion.dll
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\bin\Debug\net5.0\ref\IntroductiontoRecursion.dll
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\bin\Debug\net5.0\IntroductiontoRecursion.pdb
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\IntroductiontoRecursion.dll
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\ref\IntroductiontoRecursion.dll
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\IntroductiontoRecursion.pdb
+C:\Users\sandhya\source\repos\IntroductiontoRecursion\obj\Debug\net5.0\IntroductiontoRecursion.genruntimeconfig.cache

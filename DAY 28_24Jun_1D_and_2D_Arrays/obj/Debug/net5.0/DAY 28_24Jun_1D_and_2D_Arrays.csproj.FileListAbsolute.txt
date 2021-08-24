@@ -1,0 +1,16 @@
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\bin\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.exe
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\bin\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.deps.json
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\bin\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.runtimeconfig.json
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\bin\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\bin\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.dll
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\bin\Debug\net5.0\ref\DAY 28_24Jun_1D_and_2D_Arrays.dll
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\bin\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.pdb
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.dll
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\ref\DAY 28_24Jun_1D_and_2D_Arrays.dll
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.pdb
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.genruntimeconfig.cache
+C:\Users\sandhya\source\repos\DAY 28_24Jun_1D_and_2D_Arrays\obj\Debug\net5.0\DAY 28_24Jun_1D_and_2D_Arrays.csproj.AssemblyReference.cache

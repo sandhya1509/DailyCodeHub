@@ -1,0 +1,16 @@
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\MultidimenctionalArray.exe
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\MultidimenctionalArray.deps.json
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\MultidimenctionalArray.runtimeconfig.json
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\MultidimenctionalArray.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\MultidimenctionalArray.dll
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\ref\MultidimenctionalArray.dll
+C:\Users\sandhya\source\repos\MultidimenctionalArray\bin\Debug\net5.0\MultidimenctionalArray.pdb
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\MultidimenctionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\MultidimenctionalArray.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\MultidimenctionalArray.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\MultidimenctionalArray.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\MultidimenctionalArray.dll
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\ref\MultidimenctionalArray.dll
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\MultidimenctionalArray.pdb
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\MultidimenctionalArray.genruntimeconfig.cache
+C:\Users\sandhya\source\repos\MultidimenctionalArray\obj\Debug\net5.0\MultidimenctionalArray.csproj.AssemblyReference.cache

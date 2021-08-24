@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>DAY_28_24Jun_1D_and_2D_Arrays</RootNamespace>
+  </PropertyGroup>
+
+</Project>

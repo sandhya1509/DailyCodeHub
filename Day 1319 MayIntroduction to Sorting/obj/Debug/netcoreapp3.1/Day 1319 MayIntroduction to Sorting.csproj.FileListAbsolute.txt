@@ -1,0 +1,13 @@
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\bin\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.exe
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\bin\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.deps.json
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\bin\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.runtimeconfig.json
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\bin\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\bin\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.dll
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\bin\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.pdb
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\obj\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.csproj.AssemblyReference.cache
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\obj\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\obj\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\obj\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\obj\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.dll
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\obj\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.pdb
+C:\Users\sandhya\source\repos\Day 1319 MayIntroduction to Sorting\obj\Debug\netcoreapp3.1\Day 1319 MayIntroduction to Sorting.genruntimeconfig.cache

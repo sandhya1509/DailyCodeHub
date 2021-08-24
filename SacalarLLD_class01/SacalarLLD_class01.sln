@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SacalarLLD_class01", "SacalarLLD_class01.csproj", "{A6B9F5EF-A53C-4440-AE6E-34E6C3EC39E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{99874C32-D104-4BE8-9C82-AF145B7A23F6}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B9F5EF-A53C-4440-AE6E-34E6C3EC39E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B9F5EF-A53C-4440-AE6E-34E6C3EC39E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B9F5EF-A53C-4440-AE6E-34E6C3EC39E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B9F5EF-A53C-4440-AE6E-34E6C3EC39E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDEA203D-4FE7-4687-9067-AC67F5A4F807}
+	EndGlobalSection
+EndGlobal

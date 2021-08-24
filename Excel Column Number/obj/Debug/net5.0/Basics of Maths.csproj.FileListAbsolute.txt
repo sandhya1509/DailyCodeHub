@@ -1,0 +1,16 @@
+C:\Users\sandhya\source\repos\Excel Column Number\bin\Debug\net5.0\Basics of Maths.exe
+C:\Users\sandhya\source\repos\Excel Column Number\bin\Debug\net5.0\Basics of Maths.deps.json
+C:\Users\sandhya\source\repos\Excel Column Number\bin\Debug\net5.0\Basics of Maths.runtimeconfig.json
+C:\Users\sandhya\source\repos\Excel Column Number\bin\Debug\net5.0\Basics of Maths.runtimeconfig.dev.json
+C:\Users\sandhya\source\repos\Excel Column Number\bin\Debug\net5.0\Basics of Maths.dll
+C:\Users\sandhya\source\repos\Excel Column Number\bin\Debug\net5.0\ref\Basics of Maths.dll
+C:\Users\sandhya\source\repos\Excel Column Number\bin\Debug\net5.0\Basics of Maths.pdb
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\Basics of Maths.csprojAssemblyReference.cache
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\Basics of Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\Basics of Maths.AssemblyInfoInputs.cache
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\Basics of Maths.AssemblyInfo.cs
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\Basics of Maths.csproj.CoreCompileInputs.cache
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\Basics of Maths.dll
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\ref\Basics of Maths.dll
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\Basics of Maths.pdb
+C:\Users\sandhya\source\repos\Excel Column Number\obj\Debug\net5.0\Basics of Maths.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWS/KOrsLdim/bWt9lANTZjgl7/vsKjHs3RV//YqbDRJomOowXw6UlpG2WlFkOtM/q6Cv+4At5S9LKkdzPbcOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sandhya\\source\\repos\\timecomplexity\\timecomplexity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandhya\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\sandhya\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\sandhya\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\sandhya\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\sandhya\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\sandhya\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\sandhya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
